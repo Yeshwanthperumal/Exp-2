@@ -3,7 +3,6 @@
 # AIM:
 To study the problem statement and SRS of a Library Management System and represent its architecture using UML diagrams.
 # SRS (Procedure):
-```
 Analyze the Library Management System and model its components through the following UML diagrams:
 1.Use Case Diagram – Identifies actors (e.g., Librarian, Member) and system functionalities (e.g., Search Book, Issue Book, Return Book, Pay Fine).
 2.Class Diagram – Represents system classes, attributes, operations, and relationships.
@@ -11,7 +10,7 @@ Analyze the Library Management System and model its components through the follo
 4.Sequence Diagram – Illustrates object interactions in time sequence for specific processes like book issuance.
 5.Communication Diagram – Depicts object collaborations based on interactions.
 6.Package Diagram – Organizes classes and components into packages for modular structure.
-```
+
 # DIAGRAMS:
 ## NAME:YESHWANTH P
 ## REG NO:21222230178
